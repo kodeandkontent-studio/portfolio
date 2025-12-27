@@ -24,3 +24,8 @@ html {
   width: 100%;
   font-family: var(--sf-pro);
 }
+
+h1 {
+  background-color: red;
+  width: 150px;
+}
